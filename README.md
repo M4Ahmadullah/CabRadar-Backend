@@ -50,26 +50,26 @@ npm install
 
 ```env
 # Server Configuration
-PORT=3000
+PORT=
 
 # Supabase Configuration
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-SUPABASE_JWT_SECRET=your_jwt_secret
+SUPABASE_URL=
+SUPABASE_KEY=
+SUPABASE_JWT_SECRET=
 
 # Redis Configuration
-REDIS_HOST=your_redis_host
-REDIS_PORT=your_redis_port
-REDIS_USERNAME=your_redis_username
-REDIS_PASSWORD=your_redis_password
+REDIS_HOST=
+REDIS_PORT=
+REDIS_USERNAME=
+REDIS_PASSWORD=
 
 # Firebase Configuration
-FIREBASE_PROJECT_ID=your_firebase_project_id
-FIREBASE_PRIVATE_KEY=your_firebase_private_key
-FIREBASE_CLIENT_EMAIL=your_firebase_client_email
+FIREBASE_PROJECT_ID=
+FIREBASE_PRIVATE_KEY=
+FIREBASE_CLIENT_EMAIL=
 
 # Database Configuration
-DATABASE_URL=your_database_url
+DATABASE_URL=
 ```
 
 4. Run the application:
