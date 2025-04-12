@@ -1,0 +1,8 @@
+export enum EventType {
+  ACCIDENT = 'ACCIDENT',
+  CONSTRUCTION = 'CONSTRUCTION',
+  POLICE = 'POLICE',
+  TRAFFIC = 'TRAFFIC',
+  HAZARD = 'HAZARD',
+  OTHER = 'OTHER',
+}
